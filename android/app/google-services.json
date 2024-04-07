@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "494022571579",
+    "project_number": "",
     "project_id": "pizza-app-v1",
     "storage_bucket": "pizza-app-v1.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:494022571579:android:ec33d57b94f26e3c4b8e1e",
+        "mobilesdk_app_id": "",
         "android_client_info": {
           "package_name": "com.example.update_pizza_app"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAUQr81QTY9kPcHEgVwU0FUZO6Y8dshBKo"
+          "current_key": ""
         }
       ],
       "services": {
