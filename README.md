@@ -1,6 +1,5 @@
-# update_pizza_app
+# Pizza App Release For Android
 
-A new Flutter project.
 
 ## Getting Started
 
